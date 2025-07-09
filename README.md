@@ -12,3 +12,5 @@
 4) Train Model
 5) Visualize outputs
 6) Predictions on unseen data
+
+Task 3 : https://github.com/AditiLatane/CodeTech-Task-3
